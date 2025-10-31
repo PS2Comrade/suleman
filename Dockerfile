@@ -162,8 +162,8 @@ GOOGLE_DEFAULT=true BING_DEFAULT= BRAVE_DEFAULT= DUCKDUCKGO_DEFAULT= \
 OPENMETRICS= \
 PRIVACYPOLICY= \
 DONATION_URL= \
-CONTACT=https://vojk.au \
+CONTACT=https://xylen.rf.gd \
 FOOTER_MESSAGE= \
-ISSUE_URL=https://github.com/privau/searxng/issues GIT_URL=https://github.com/privau/searxng GIT_BRANCH=main
+ISSUE_URL=https://github.com/PS2Comrade/searxng/issues GIT_URL=https://github.com/PS2Comrade/searxng GIT_BRANCH=main
 
 CMD ["run.sh"]
